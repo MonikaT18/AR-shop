@@ -1,0 +1,7 @@
+{
+  "name": "AR Shop - Augmented Reality Shopping Experience",
+  "description": "An augmented reality shopping experience that allows you to visualize products in your own space before you buy. Experience the future of online retail with interactive 3D models in your environment.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
